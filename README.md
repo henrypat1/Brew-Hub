@@ -100,7 +100,8 @@ Mvp will be selecting the list items and showing them. Post Mvp will be resentti
 | --- | :---: |  :---: | :---: | :---: |
 | Adding Form | H | 3hrs| 3.hrs | 3.5hrs |
 | Working with API | H | 2hrs| 2.5hrs | 2.5hrs |
-| Creating HTML, CSS, JS | H | 6hrs |  |  |
+| Creating HTML, CSS, JS | H | 3hrs |  |  |
+| JS | H | 3hrs |  |  |
 |creating the functions| H | 3hrs |
 |Debugging | H |3hrs |  |   |
 |final checking| H | 2hrs|
