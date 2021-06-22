@@ -105,7 +105,7 @@ Mvp will be selecting the list items and showing them. Post Mvp will be resentti
 |creating the functions| H | 3hrs |
 |Debugging | H |3hrs |  |   |
 |final checking| H | 2hrs|
-| Total | H | 19hrs|  |  |
+| Total | H | 30hrs|  |  |
 
 ## Code Snippet
 
