@@ -1,0 +1,45 @@
+body {
+text-align: center;
+}
+
+header {
+
+}
+
+h1 {
+  color: black;
+  background-color: chocolate;
+}
+
+article {
+color: black;
+background-color: brown;
+}
+
+p {
+  color: black;
+  background-color: brown;
+  padding: auto;
+}
+
+.state-section {
+border: black;
+block-size: auto;
+position: relative;
+padding-left: 0%;
+}
+
+.type-section {
+border: black;
+block-size: auto;
+position: relative;
+padding-right: 0%;
+}
+
+input {
+
+}
+
+button {
+
+}
