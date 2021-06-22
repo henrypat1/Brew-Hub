@@ -53,7 +53,8 @@ https://api.openbrewerydb.org/breweries
 
 
 ## Wireframes
-![wireframes](https://wireframe.cc/Uj0oAs)
+<img width="424" alt="Screen Shot 2021-06-22 at 10 08 54 AM" src="https://user-images.githubusercontent.com/84546443/122939776-ebf57880-d341-11eb-8c3c-d759d5b7bfef.png">
+
 
 ### MVP/PostMVP
 
@@ -90,7 +91,7 @@ Mvp will be selecting the list items and showing them. Post Mvp will be resentti
 |June 28| Presentations | Incomplete
 
 ## Priority Matrix
-![Priority text](https://app.diagrams.net/#G18E6tOwjPp4M79Uzer8B3z5IbIkKi4Aie)
+![Priority Matrix](https://user-images.githubusercontent.com/84546443/122939975-121b1880-d342-11eb-9c75-0c4c8212adfa.png)
 
 
 ## Timeframes
