@@ -4,52 +4,33 @@
 
 ## Project Description
 
-Create an app to find local breweries near you.
+Using the openBreweryDB api, user will be able to search for breweries by state. search will display name, address, website, phone number. remove previouse search results when user searches new state
 
 ## API and Data Sample
-https://api.openbrewerydb.org/breweries
+https://api.openbrewerydb.org/breweries?by_state=ohio
 
+```
 {
-        "id": 9094,
-        "obdb_id": "bnaf-llc-austin",
-        "name": "Bnaf, LLC",
-        "brewery_type": "planning",
-        "street": null,
-        "address_2": null,
-        "address_3": null,
-        "city": "Austin",
-        "state": "Texas",
-        "county_province": null,
-        "postal_code": "78727-7602",
-        "country": "United States",
-        "longitude": null,
-        "latitude": null,
-        "phone": null,
-        "website_url": null,
-        "updated_at": "2018-07-24T00:00:00.000Z",
-        "created_at": "2018-07-24T00:00:00.000Z"
-    },
-    {
-        "id": 9180,
-        "obdb_id": "boulder-beer-co-boulder",
-        "name": "Boulder Beer Co",
-        "brewery_type": "regional",
-        "street": "2880 Wilderness Pl",
-        "address_2": null,
-        "address_3": null,
-        "city": "Boulder",
-        "state": "Colorado",
-        "county_province": null,
-        "postal_code": "80301-5401",
-        "country": "United States",
-        "longitude": "-105.2480158",
-        "latitude": "40.026439",
-        "phone": null,
-        "website_url": null,
-        "updated_at": "2018-08-24T00:00:00.000Z",
-        "created_at": "2018-07-24T00:00:00.000Z"
-    },
-
+id: 14417,
+obdb_id: "snow-belt-brew-chardon",
+name: "Snow Belt Brew",
+brewery_type: "micro",
+street: "9511 Kile Rd",
+address_2: null,
+address_3: null,
+city: "Chardon",
+state: "Ohio",
+county_province: null,
+postal_code: "44024",
+country: "United States",
+longitude: null,
+latitude: null,
+phone: null,
+website_url: null,
+updated_at: "2018-07-24T00:00:00.000Z",
+created_at: "2018-07-24T00:00:00.000Z"
+}
+```
 
 
 ## Wireframes
@@ -58,24 +39,15 @@ https://api.openbrewerydb.org/breweries
 
 ### MVP/PostMVP
 
-Mvp will be selecting the list items and showing them. Post Mvp will be resentting the page to make a new search.
-
 #### MVP 
 
-
-- Create search bar
-- create a space to put in your location
-- Sellect bewery type
-- show all the breweries near you
-- show the website
-- Sellect bewery type
-
-
-
+- take user input and search breweries by state
+- append brewery name address, website url, type
+- remove previous search result in your new search
 
 #### PostMVP  
 
-- final styling
+- add event UI
 - clear the results
 
 ## Project Schedule
@@ -98,14 +70,19 @@ Mvp will be selecting the list items and showing them. Post Mvp will be resentti
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.hrs | 3.5hrs |
-| Working with API | H | 2hrs| 2.5hrs | 2.5hrs |
-| Creating HTML, CSS, JS | H | 3hrs |  |  |
-| JS | H | 3hrs |  |  |
-|creating the functions| H | 3hrs |
-|Debugging | H |3hrs |  |   |
-|final checking| H | 2hrs|
-| Total | H | 30hrs|  |  |
+| Capture form input | H | 3hrs |  | |
+| Input Search result to API request | H | 3hrs|  |  |
+| render dinamic content from request | H | 3hrs |  |  |
+| Style appended Elements | H | 3hrs |  |  |
+| Appending elements | H | 3hrs |
+| flexbox | H | 3hrs |  |   |
+| Remove previous search reults | H | 3hrs |  |   |
+| Debbuging | H | 3hrs |  |  |
+| Creating HTML | H | 3hrs |  |  |
+| Researching API | H | 3hrs |  |  |
+| Deployment | H | 1hrs |  |  |
+| Building Project worksheet | H | 3hrs | 3hrs |  |
+| Total | H | 34hrs|  |  |
 
 ## Code Snippet
 
