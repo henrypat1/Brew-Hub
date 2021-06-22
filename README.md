@@ -90,7 +90,7 @@ Mvp will be selecting the list items and showing them. Post Mvp will be resentti
 |June 28| Presentations | Incomplete
 
 ## Priority Matrix
-![Priority Matrix](https://drive.google.com/file/d/1MAhaU0cNT5fh4hBXohp4uMD5EVFpF3jF/view?usp=sharing)
+![Priority Matrix](https://app.diagrams.net/#G18E6tOwjPp4M79Uzer8B3z5IbIkKi4Aie)
 
 
 ## Timeframes
