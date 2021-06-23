@@ -78,7 +78,7 @@ created_at: "2018-07-24T00:00:00.000Z"
 | flexbox | H | 3hrs |  |   |
 | Remove previous search reults | H | 3hrs |  |   |
 | Debbuging | H | 3hrs |  |  |
-| Creating HTML | H | 3hrs |  |  |
+| Creating HTML | H | 3hrs | 1.5 |  |
 | Researching API | H | 3hrs |  |  |
 | Deployment | H | 1hrs |  |  |
 | Building Project worksheet | H | 3hrs | 3hrs |  |
