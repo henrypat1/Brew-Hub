@@ -23,23 +23,36 @@ p {
 }
 
 .state-section {
-border: black;
-block-size: auto;
-position: relative;
-padding-left: 0%;
-}
-
-.type-section {
-border: black;
-block-size: auto;
-position: relative;
-padding-right: 0%;
+background-color: saddlebrown;
+display: flex;
+justify-content: center;
+align-content: center;
+padding: 10px;
+margin: 10px;
 }
 
 input {
-
+padding: 8px;
+border-radius: 2px;
+border-radius: 20%;
+margin: 5px;
+border: 1px solid black;
 }
 
 button {
+text-transform: uppercase;
+border: 1px solid black;
+}
 
+.brewery-data, h1 {
+  background-color: yellow;
+  color: black;
+  padding: 10px;
+  
+}
+
+h3 {
+  color: black;
+  background-color: yellow;
+  
 }
