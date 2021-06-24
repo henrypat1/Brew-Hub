@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
   <script defer src="app.js" charset="UTF-8"></script>
   <link rel="stylesheet" href="style.css">
   <title>Brew Hub</title>
@@ -15,14 +16,13 @@
   </header>
 
 <div class="state-section">
-  <input type="text" id="blank" placeholder="State">
-  <button id="search">Search</button>
+  <form>
+    <input type="text" id="state-input" placeholder="State">
+    <button id="search">Search</button>
+  </form>
 </div>
-<div class="type-section">
-  <input type="text" id="blank" placeholder="Type">
-  <button id="type">Search</button>
-</div>
-<section>
+
+<section id= "brewery-data">
 
 </section>
   
