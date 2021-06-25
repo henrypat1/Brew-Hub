@@ -1,5 +1,6 @@
 body {
 text-align: center;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGVScTVDwRwV7SpGC6E7l7hro8XfUsVIsNug&usqp=CAU);
 }
 
 header {
@@ -8,7 +9,7 @@ header {
 }
 
 h1 {
-
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 
 article {
@@ -19,7 +20,9 @@ background-color: brown;
 p {
   color: black;
   background-color: brown;
-  padding: auto;
+  padding: 20px;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .state-section {
@@ -50,10 +53,32 @@ border: 1px solid black;
   padding: 10px;
 
 }
-
+div {
+  display:block;
+  block-size: 80px;
+  border: 1px solid black;
+  padding-bottom: 180px;
+  border-spacing: 100px;
+  background-image: url(https://cdn-www.czechminibreweries.com/wp-content/uploads/2018/09/beer-bottles-01.jpg);
+  
+  
+}
 div h1{
   display: block;
   background-color: yellow;
   text-align: left;
+  block-size: 40px;
+  padding: auto;
+  
 }
+
+div h3 {
+  font-size: 22px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  background: black;
+  border-radius: 2px;
+}
+
 

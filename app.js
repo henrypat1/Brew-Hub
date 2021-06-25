@@ -1,12 +1,6 @@
-// const DOMAIN = "https://api.openbrewerydb.org/breweries?by_state=";
-
-
 const form = document.querySelector('form')
 const breweryData = document.querySelector('#brewery-data')
 
-// function reload() {
-//   location.reload()
-// }
 function removeResulsts(node) {
   while (node.firstChild) {
     node.removeChild(node.firstChild)
