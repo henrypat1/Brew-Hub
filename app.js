@@ -29,6 +29,7 @@ async function getState(state) {
     
     response.data.forEach((brewery) => {
       console.log(brewery)
+      const breweryDiv = document.createElement('div')
       const breweryName = document.createElement('h1')
       const breweryStreet = document.createElement('h3')
       const breweryPhone = document.createElement('h3')
@@ -39,11 +40,12 @@ async function getState(state) {
       breweryPhone.textContent = brewery.phone
       brewerySite.textContent = brewery.website_url
       type.textContent = brewery.brewery_type
-      breweryData.append(breweryName)
-      breweryData.append(breweryStreet)
-      breweryData.append(breweryPhone)
-      breweryData.append(brewerySite)
-      breweryData.append(type)
+      breweryDiv.append(breweryName)
+      breweryDiv.append(breweryStreet)
+      breweryDiv.append(breweryPhone)
+      breweryDiv.append(brewerySite)
+      breweryDiv.append(type)
+      breweryData.append(breweryDiv)
       
     })
 

@@ -3,12 +3,12 @@ text-align: center;
 }
 
 header {
-
+  color: black;
+  background-color: chocolate;
 }
 
 h1 {
-  color: black;
-  background-color: chocolate;
+
 }
 
 article {
@@ -44,15 +44,16 @@ text-transform: uppercase;
 border: 1px solid black;
 }
 
-.brewery-data, h1 {
+.brewery-data {
   background-color: yellow;
   color: black;
   padding: 10px;
-  
+
 }
 
-h3 {
-  color: black;
+div h1{
+  display: block;
   background-color: yellow;
-  
+  text-align: left;
 }
+
