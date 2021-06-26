@@ -81,4 +81,14 @@ div h3 {
   border-radius: 2px;
 }
 
+@media only screen and (max-width: 600px) {
+  div {
+    background-color: black;
+    background-image: none;
+  }
+  div h3 {
+    color: black;
+    background-color: yellow;
+  }
+}
 
