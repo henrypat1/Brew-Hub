@@ -55,11 +55,11 @@ created_at: "2018-07-24T00:00:00.000Z"
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|June 21| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
-|June 22| Project Approval / Core Application Structure (HTML, CSS, etc.) | Incomplete
-|June 23| Pseudocode / actual code | Incomplete
-|June 24| Initial Clickable Model  | Incomplete
-|June 25| MVP | Incomplete
+|June 21| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
+|June 22| Project Approval / Core Application Structure (HTML, CSS, etc.) | Complete
+|June 23| Pseudocode / actual code | Complete
+|June 24| Initial Clickable Model  | Complete
+|June 25| MVP | Complete
 |June 28| Presentations | Incomplete
 
 ## Priority Matrix
@@ -70,19 +70,19 @@ created_at: "2018-07-24T00:00:00.000Z"
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Capture form input | H | 3hrs |  | |
-| Input Search result to API request | H | 3hrs|  |  |
-| render dinamic content from request | H | 3hrs |  |  |
-| Style appended Elements | H | 3hrs |  |  |
-| Appending elements | H | 3hrs |
-| flexbox | H | 3hrs |  |   |
-| Remove previous search reults | H | 3hrs |  |   |
-| Debbuging | H | 3hrs |  |  |
-| Creating HTML | H | 3hrs | 1.5 |  |
-| Researching API | H | 3hrs |  |  |
-| Deployment | H | 1hrs |  |  |
-| Building Project worksheet | H | 3hrs | 3hrs |  |
-| Total | H | 34hrs|  |  |
+| Capture form input | H | 3hrs | 4hrs | 4hrs |
+| Input Search result to API request | H | 3hrs| 2hrs | 2hrs |
+| render dinamic content from request | H | 3hrs | 3hrs | 3hrs |
+| Style appended Elements | H | 3hrs | 3.5 hrs | 4hrs |
+| Appending elements | H | 3hrs | 3hrs | 3hrs |
+| flexbox | H | 3hrs | 1hr |  1hrs |
+| Remove previous search reults | H | 3hrs | 3hrs | 3hrs  |
+| Debbuging | H | 3hrs | 3hrs | 3 hrs |
+| Creating HTML | H | 3hrs | 1.5hrs | 2hrs |
+| Researching API | H | 3hrs | 1hr | 1hr |
+| Deployment | H | 1hrs | 1hr | 1hr |
+| Building Project worksheet | H | 3hrs | 3hrs | 3hr |
+| Total | H | 34hrs| 29hrs | 30hrs |
 
 ## Code Snippet
 
