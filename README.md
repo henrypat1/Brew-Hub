@@ -1,6 +1,6 @@
 ## Brew Hub
 
-[deployed project](https://www.openbrewerydb.org/)
+https://henrypat1.github.io/Brew-Hub/
 
 ## Project Description
 
