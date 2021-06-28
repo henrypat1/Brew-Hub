@@ -60,6 +60,8 @@ div {
   padding-bottom: 180px;
   border-spacing: 100px;
   background-image: url(https://cdn-www.czechminibreweries.com/wp-content/uploads/2018/09/beer-bottles-01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
   
   
 }
@@ -85,6 +87,9 @@ div h3 {
   div {
     background-color: black;
     background-image: none;
+  }
+  div h1 {
+    text-align: center;
   }
   div h3 {
     color: black;
